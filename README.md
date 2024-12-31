@@ -1,6 +1,6 @@
 # PTT Software Co., Ltd Website
 
-This project is a responsive company website built using **HTML5**, **Bootstrap 5**, and **Font Awesome**. The website showcases the company's services, team, software projects, public interest progress, and pricing details.
+This is my first project with my teacher of Data-Land Technologolgy.My This project is a responsive company website built using **HTML5**, **Bootstrap 5**, and **Font Awesome**. The website showcases the company's services, team, software projects, public interest progress, and pricing details.
 
 ## Features
 
