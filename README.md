@@ -30,8 +30,3 @@ This is my first project with my teacher of **Data-Land Technologolgy**.My This 
 - **Bootstrap 5**: Responsive design and components.
 - **Font Awesome**: Iconography.
 - **CSS**: Custom styles for enhanced visual appeal.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ptt-software-website.git
